@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Angela! 👋
+## ✨ Hi, I'm Angela! ✨
 
 #### tldr: I'm a data scientist, economist, and sci fi writer
 ###### other stuff I do: knitting, weightlifting, reading, parenting
